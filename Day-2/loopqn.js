@@ -69,7 +69,6 @@
     
   // }
 
-
   //  QN8. wether the number is even or odd taken by the user 
 
       let val = prompt( " value is given by the user")
@@ -86,3 +85,4 @@
       }
 
 
+// QN1
