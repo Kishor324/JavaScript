@@ -16,6 +16,7 @@ app.get("/",function(req,res){
 app.get("/profile/:username",function(req,res){
     res.send(`hey user ,${req.params.username}`);
 })
+
 app.listen(3000,function(){
     console.log("its runnning")
 })
